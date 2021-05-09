@@ -1,0 +1,7 @@
+front/node_modules
+back/node_modules
+front/package-lock.json
+back/package-lock.json
+front/yarn.lock
+back/yarn.lock
+.idea
